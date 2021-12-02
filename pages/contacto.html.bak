@@ -1,0 +1,18 @@
+lenguaje html
+<!DOCTYPE html>
+<html lang=¨es¨ dir=¨LTR¨>
+<head>
+</head>
+<body>
+	<header>
+	</header>
+	<nav>
+	</nav>
+	<main>
+		<article>
+			<h2>contacto</h2>
+			
+		</article>
+	</main>
+</body>
+</html>
